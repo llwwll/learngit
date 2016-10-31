@@ -1,2 +1,1 @@
-Git is a distributed version control system.
-Git is free software.
+德玛西亚万岁万岁万万岁
